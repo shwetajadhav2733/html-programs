@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Rule.css"?>
+<class>
+    <heading>students record </heading>
+    <stud>
+        <name>Name: Rasika Vadangekar</name>
+        <branch>Branch: CSE</branch>
+        <rollno>Rollno: 26</rollno>
+        <percentage>Marks: 90%</percentage>
+    </stud>
+    <stud>
+        <name>Name: Pratiksha Kamble</name>
+        <branch>Branch: Mechanical</branch>
+        <rollno>Rollno: 27</rollno>
+        <percentage>Marks: 85%</percentage>
+    </stud>
+    <stud>
+        <name>Name: Shweta Jadhav</name>
+        <branch>Branch: CSE</branch>
+        <rollno>Rollno: 32</rollno>
+        <percentage>Marks: 70%</percentage>
+    </stud>
+    <stud>
+        <name>Name: Nikita Gite</name>
+        <branch>Branch: Civil</branch>
+        <rollno>Rollno: 56</rollno>
+        <percentage>Marks: 75%</percentage>
+    </stud>
+    <stud>
+        <name>Name: Pradnya Chopade</name>
+        <branch>Branch: AIML</branch>
+        <rollno>Rollno: 25</rollno>
+        <percentage>Marks: 80%</percentage>
+    </stud>
+</class>

@@ -1,0 +1,18 @@
+<?version="1.0" encoding="JSO-8889-1"?>
+<class>
+<student>
+<rollno>32</rollno>
+<name>Shweta Jadhav</name>
+<address>Kolhapur</address>
+</student>
+<student>
+<rollno>26</rollno>
+<name>Rasika Vadangekar</name>
+<address>Varange-Padli</address>
+</student>
+<student>
+<rollno>27</rollno>
+<name>Pratiksha Kamble</name>
+<address>Bhuye</address>
+</student>
+</class>
